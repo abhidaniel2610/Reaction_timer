@@ -1,0 +1,19 @@
+body{
+			
+			font-family: sans-sarif;
+			
+			}
+		
+			#shape{
+				width:100px;
+				height:100px;
+				background-color:red;
+				position:relative;
+			
+			
+			}
+			
+			.bold{
+				font-weight: Bold;
+			}
+		
